@@ -73,5 +73,5 @@ Answer the following questions. First, without external resources. Challenge you
 
   Your answer: Working in groups with different individuals.
 
-  Researched answer:N/A
+  Researched answer:n/a
   
